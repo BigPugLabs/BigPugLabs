@@ -2,7 +2,7 @@
 - 👀 I’m interested in making computers go BRRRRRRRRR
 - 🌱 I’m currently learning webdev
 - 💞️ I’m looking to collaborate on superstack development
-- 📫 How to reach me [Twitch](https://www.twitch.tv/bigpuglabs)
+- 📫 How to reach me [Twitter](https://twitter.com/BigPugLabs) [Twitch](https://www.twitch.tv/bigpuglabs)
 
 <!---
 BigPugLabs/BigPugLabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
